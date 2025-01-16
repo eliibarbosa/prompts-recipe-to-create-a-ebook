@@ -38,7 +38,7 @@ Copilot：
 
 ## 📚 Materiais
 
-- Imagem utilizadas em `asset`
+- Imagem utilizadas em `assets`
 - ebook gerado durante as aulas em `output`
 
 ## 🛠️ Instruções de execução
