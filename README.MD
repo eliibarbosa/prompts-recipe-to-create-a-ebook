@@ -6,7 +6,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
 
-<a href="" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/eliibarbosa/prompts-recipe-to-create-a-ebook/blob/7e819a4d1038d2b39c4d195ade140c21593ee890/output/Projeto%20Ebook%20-%20DIO.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/)
